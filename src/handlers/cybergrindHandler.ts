@@ -13,7 +13,7 @@ class cybergrindHandler implements FormatHandler {
         this.supportedFormats = [
             CommonFormats.PNG.supported("png", true, false),
             {
-                name: "CyberGrind Pattern",
+                name: "ULTRAKILL CyberGrind Pattern",
                 format: "cgp",
                 extension: "cgp",
                 mime: "text/plain",
